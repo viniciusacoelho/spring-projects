@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: product-management
+
+  mongodb:
+    uri: ${MONGODB_URI}
